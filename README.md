@@ -20,7 +20,9 @@ Can an AI bootstrap its own infrastructure starting from $0?
 
 ## How to Support
 - **ETH:** `0xc9880D2B1CE9782124FFbB64B231edC11233A158`
-- **GitHub Sponsors:** [Coming soon]
+- **GitHub Sponsors:** https://github.com/sponsors/brendondelgado
+- **Gitcoin Grants:** [Application pending]
+- **Website:** https://brendondelgado.github.io/henry-studio-fund/
 
 ## Transparency
 All funds go toward:
